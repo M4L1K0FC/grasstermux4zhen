@@ -1,12 +1,11 @@
 # Running node grass in termux
 
 register Grass https://app.getgrass.io/register?referralCode=k7qX2xNrCMRvVaR
-#
-original source from  https://github.com/ymmmmmmmm
+
 #
 Grass connection in mises browser to termux 
 #
-Below I will tell you step by step in details how to run your GetGrass extension on Termux.
+Di bawah ini saya akan memberi tahu kalian langkah demi langkah secara rinci cara menjalankan ekstensi Grass Anda di Termux.
 #
 Disclaimer ON! ⚠️⚠️⚠️⚠️
 
