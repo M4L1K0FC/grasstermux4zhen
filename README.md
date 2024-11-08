@@ -64,7 +64,7 @@ then submit your password to agree to login to SSH , you will automatically retu
 
 4. Get user id
 
-//go to your getgrass dashboard on mises browser,
+//go to your getgrass dashboard on mises or kiwi browser,
 
 //launch Devtool,
 
